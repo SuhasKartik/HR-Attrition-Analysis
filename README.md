@@ -1,6 +1,6 @@
-![HR-Attrition-Analysis(D.png)
+
 # HR-Attrition-Analysis
-Developed an interactive HR attrition analysis dashboard in Tableau to track attrition patterns and critical HR KPIs.
+![HR-Attrition-Analysis(D.png) Developed an interactive HR attrition analysis dashboard in Tableau to track attrition patterns and critical HR KPIs.
 
 # HR Attrition Analysis Dashboard (Tableau)
 
